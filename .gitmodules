@@ -1,0 +1,3 @@
+[submodule "tapable"]
+	path = tapable
+	url = https://github.com/webpack/tapable.git
